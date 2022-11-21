@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NoxeTV/static/css/main.7ef7fb56.css",
+    "main.js": "/NoxeTV/static/js/main.20242f0d.js",
+    "static/js/787.327c7990.chunk.js": "/NoxeTV/static/js/787.327c7990.chunk.js",
+    "static/media/fa-solid-900.ttf": "/NoxeTV/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/NoxeTV/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/NoxeTV/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/download.png": "/NoxeTV/static/media/download.8cc5ea4dd8f645cd00cc.png",
+    "static/media/fa-brands-400.woff2": "/NoxeTV/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/NoxeTV/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/Oops.svg": "/NoxeTV/static/media/Oops.e4ef29e10fe95e19bbc9b1c049f44422.svg",
+    "static/media/fa-regular-400.woff2": "/NoxeTV/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/NoxeTV/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/NoxeTV/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "index.html": "/NoxeTV/index.html",
+    "main.7ef7fb56.css.map": "/NoxeTV/static/css/main.7ef7fb56.css.map",
+    "main.20242f0d.js.map": "/NoxeTV/static/js/main.20242f0d.js.map",
+    "787.327c7990.chunk.js.map": "/NoxeTV/static/js/787.327c7990.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef7fb56.css",
+    "static/js/main.20242f0d.js"
+  ]
+}
